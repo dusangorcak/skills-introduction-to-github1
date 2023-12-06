@@ -8,7 +8,7 @@
   NEWEST download this
 -->
 
-# Introduction to GitHub
+# Introduction to GitHub - NEWWEST version
 
 _Get started using GitHub in less than an hour._
 
